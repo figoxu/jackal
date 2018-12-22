@@ -1,2 +1,2 @@
 go build
-./jackal --config=./example.jackal.yml
+nohup ./jackal --config=./example.jackal.yml >> jackal.log 2>&1
