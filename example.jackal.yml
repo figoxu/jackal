@@ -13,8 +13,8 @@ storage:
   type: mysql
   mysql:
     host: 127.0.0.1:3306
-    user: jackal
-    password: password
+    user: root
+    password: xujianhui0915
     database: jackal
     pool_size: 16
 
